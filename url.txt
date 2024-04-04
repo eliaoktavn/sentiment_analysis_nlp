@@ -1,0 +1,3 @@
+link dataset: https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis/code
+link hugging face: https://huggingface.co/spaces/eliaoktavn/Sentiment
+link model: https://drive.google.com/drive/folders/1VXTwLymkXo6PmxDPptyKvQSYZaHdCw6t?usp=sharing
